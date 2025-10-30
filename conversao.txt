@@ -1,0 +1,3 @@
+Data: 30/10/2025 | De: USD | Para: BRL | Valor Anterior: 23 | Taxa de conversão: 0.0000 | Valor Final: 123.27
+Data: 30/10/2025 | De: EUR | Para: USD | Valor Anterior: 24 | Taxa de conversão: 0.0000 | Valor Final: 27.91
+Data: 30/10/2025 | De: EUR | Para: BRL | Valor Anterior: 540 | Taxa de conversão: 0.0000 | Valor Final: 3385.06
